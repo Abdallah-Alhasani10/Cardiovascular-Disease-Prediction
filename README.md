@@ -68,5 +68,5 @@ Each model was trained, tested, and evaluated using metrics such as:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/cardiovascular-disease-prediction.git
+   git clone https://github.com/Abdallah-Alhasani10/Cardiovascular-Disease-Prediction.git
    cd cardiovascular-disease-prediction
